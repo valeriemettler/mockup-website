@@ -10,7 +10,7 @@ Exceeds Specifications (Completely Udacious!) if your code passes the auto-evalu
 
 My code:  Congratulations! Tests completed successfully and you achieved a 0.94% mismatch!
 
-Other areas evaluted by a Udacity reviewer:
+Other areas evaluated by a Udacity reviewer:
 
 Separation of Concerns: Portfolio completely separates structure (HTML) from design/style(CSS).
 
